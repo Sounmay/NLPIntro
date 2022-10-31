@@ -1,2 +1,2 @@
 readme open.
-contrubuted here.
+contributed here.
